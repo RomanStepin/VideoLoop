@@ -1,0 +1,2 @@
+rootProject.name = "VideoLoop"
+include ':app'
