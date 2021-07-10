@@ -23,7 +23,7 @@ class PagerFragment2: Fragment() {
         container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View? {
-        return inflater.inflate(R.layout.pager_layout_2, container)
+        return inflater.inflate(R.layout.pager_layout_2, container) //
     }
 
 
