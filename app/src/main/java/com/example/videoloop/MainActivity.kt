@@ -20,6 +20,6 @@ class MainActivity : AppCompatActivity() {
 
         viewPager2 = binding.viewPager2
 
-        viewPager2.adapter = adapter//
+        viewPager2.adapter = adapter//////
     }
 }
